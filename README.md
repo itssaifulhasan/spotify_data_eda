@@ -1,6 +1,12 @@
 ## Exploratory Data Analysis (EDA) on spotify top listed songs from 2010 to 2019
 **Saiful Hasan [LinkedIn](https://www.linkedin.com/in/saifulhasan22/) [Website](https://saifulhasanchayan.wixsite.com/portfolio)** 
 
+According to Spotify’s first quarter 2020 report, they have around 286 million monthly active users. Among them, 130 million were Spotify Premium subscribers. Both the numbers are higher than the fourth-quarter report 2019 when there were 271 monthly active Spotify users and 124 million Spotify Premium subscribers. These numbers are enough to give us an idea of why Spotify is the world’s biggest music streaming platform by the number of subscribers.
+
+Recently, from Kaggle, I have got a large dataset of Spotify’s top listed songs from 2010 to 2019. With a curious to derive some insights from the data, I did some preliminary exploratory data analysis (EDA). EDA is an approach; we data scientists, researchers sometimes go through to summarize the main characteristics of the data. It is widespread to use visual methods in EDA to represent the insights to the non-technical audience in more straightforward ways. EDA helps us to explore what our data could tell us beyond the formal modeling or hypothesis testing task.
+
+Before I get into more of the exploratory data analysis, It is required to know a little bit of the data, and it starts with a data dictionary, which represents brief descriptions of the features we would consider to explore.
+
 #### Data Dictionary
 |__Feature__|__Description__|
 |:---|:---|
