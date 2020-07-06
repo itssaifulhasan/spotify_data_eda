@@ -73,14 +73,14 @@ Before I get into more of the exploratory data analysis, It is required to know 
 -  'Bon appétit'
 
 ###### ***Detail of top listed songs of Katy Perry***
-- average danceability: 65.71
-- average liveliness: 21.0
-- average energy: 75.94
-- average beats_per_min: 132.24
-- average duration: 224.18
-- average acusticness: 3.88
-- average popularity: 62.12
-- average speechiness: 6.41
+- average danceability: **65.71**
+- average liveliness: **21.0**
+- average energy: **75.94**
+- average beats_per_min: **132.24**
+- average duration: **224.18**
+- average acusticness: **3.88**
+- average popularity: **62.12**
+- average speechiness: **6.41**
 
 ![image](./images/download.png)
 
