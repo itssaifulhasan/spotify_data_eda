@@ -7,6 +7,8 @@ Recently, from Kaggle, I have got a large dataset of Spotify’s top listed song
 
 Before I get into more of the exploratory data analysis, It is required to know a little bit of the data, and it starts with a data dictionary, which represents brief descriptions of the features we would consider to explore.
 
+*To see my coding please visit to the notebook from the directory name 'Code'*
+
 #### Data Dictionary
 |__Feature__|__Description__|
 |:---|:---|
