@@ -19,12 +19,13 @@
 |`speechiness`|__The higher the value the more spoken word the song contains__|
 |`popularity`|__The higher the value the more popular the song is__|
 
-#### EDA
+#### Exploratory Data Analysis 
 
 ![image](./images/popularity.png)
 
 **For most of the years, the average popularity scores were between 60-70, while in 2019, it has the highest popularity score of around 85.**
 
+![image](./images/one.png)
 
 **Katy Perry** has most number of top songs on Spotify in the period of 2010-19 followed by **Justin Bieber**. **Rihanna** and **Maroon 5** both appreaded 15 times on the top song lists of Spotify between 2010-2019. 
 
@@ -57,9 +58,14 @@ average acusticness: 3.88
 average popularity: 62.12
 average speechiness: 6.41
 
+![images](./images/download.png)
+
 We noticed that in last 10 years majority of the top listed songs were **dance pop**. It posses about **66% of all listed songs**. 
 
+![images](.images/download (1).png)
+**Escape room** genre has the highest average popularity followed by **brostep**. However, the reason these have higher average popularity score is there are very few songs of these genre, such as escpae room, brosteps, alternative r&b. **Appreanetly only 2 songs of escape room genre made to the top list over last 10 years and only one song for alternative r&b genre.*
+
+![images](./images/download (2).png)
 The correlation chart suggests that there is a very weak correlation between popularity and other features. So it is recommended that different features might be playing a role to determine the popularity score. There is a moderate strength correlation between loudness and energy, as well as valence and energy, which makes sense. There is also a moderate strength correlation between valence and danceability, which also makes sense. 
 
-
-**Escape room** genre has the highest average popularity followed by **brostep**. However, the reason these have higher average popularity score is there are very few songs of these genre, such as escpae room, brosteps, alternative r&b. **Appreanetly only 2 songs of escape room genre made to the top list over last 10 years and only one song for alternative r&b genre.**   
+*   
