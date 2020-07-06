@@ -4,20 +4,20 @@
 #### Data Dictionary
 |__Feature__|__Description__|
 |:---|:---|
-|`title`|__The title of the songs__|
-|`top genre`|__The genre of the songs__|
-|`artist`|__The Artist of the songs__|
-|`year`|__Song's year in the Billboard__|
-|`beats_per_min`|__Beats.Per.Minute - The tempo of the song.__|
-|`energy`|__The energy of a song - the higher the value, the more energtic. song__|
-|`danceabilityr`|__The higher the value, the easier it is to dance to this song__|
-|`loudness`|__The higher the value, the louder the song__|
-|`liveness`|__The higher the value, the more likely the song is a live recording__|
-|`valence`|__The higher the value, the more positive mood for the song__|
-|`duration`|__The length of the song__|
-|`acousticness`|__The higher the value the more acoustic the song is__|
-|`speechiness`|__The higher the value the more spoken word the song contains__|
-|`popularity`|__The higher the value the more popular the song is__|
+|`title`|__The title of the songs.__|
+|`top genre`|__The genre of the songs.__|
+|`artist`|__The artist (name) of the songs.__|
+|`year`|__Song's year in the Billboard.__|
+|`beats_per_min`|__Beats per minute - this measures the tempo of the song.__|
+|`energy`|__Tt represents a perceptual measure of intensity and activity. The energy of a song - the higher the value, the more energtic the song is. Typically, energetic tracks feel fast, loud, and noisy. For instance, death metal has high energy, while a Bach prelude scores low on the scale.__|
+|`danceability`|__It is a measure using a mixture of song features such as beat strength, tempo stability, and overall tempo. The higher the value, the easier it is to dance to the song.__|
+|`loudness`|__It represents the overall loudness of a track in decibels (dB). The loudness values are averaged across the entire song. The higher the value, the louder the song.__|
+|`liveness`|__The higher the value, the more likely the song is a live recording.__|
+|`valence`|__The higher the value, the more positive mood for the song (e.g. happy, cheerful, euphoric) and the lower the value the more negative (or less psotive) mood for the song ( e.g. sad, depression, angry). It refers the musical positiveness conveyed by a song.__|
+|`duration`|__The length or duration of the song.__|
+|`acousticness`|__A confidence measure from 0.0 to 1.0 of whether the song is acoustic. The higher the value the more acoustic the song is__|
+|`speechiness`|__This is a measure to detect the presence of spoken words in a song. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Thus, the higher the value the more spoken word the song contains.__|
+|`popularity`|__The higher the value the more popular the song is.__|
 
 #### Exploratory Data Analysis 
 
