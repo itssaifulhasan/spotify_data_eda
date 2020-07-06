@@ -58,15 +58,15 @@
 - average popularity: 62.12
 - average speechiness: 6.41
 
-![images](./images/download.png)
+![image](./images/download.png)
 
 We noticed that in last 10 years majority of the top listed songs were **dance pop**. It posses about **66% of all listed songs**. 
 
-![images](.images/download (1).png)
+![image](./images/1.png)
 
 **Escape room** genre has the highest average popularity followed by **brostep**. However, the reason these have higher average popularity score is there are very few songs of these genre, such as escpae room, brosteps, alternative r&b. **Appreanetly only 2 songs of escape room genre made to the top list over last 10 years and only one song for alternative r&b genre.*
 
-![images](./images/download (2).png)
+![image](./images/2.png)
 
 The correlation chart suggests that there is a very weak correlation between popularity and other features. So it is recommended that different features might be playing a role to determine the popularity score. There is a moderate strength correlation between loudness and energy, as well as valence and energy, which makes sense. There is also a moderate strength correlation between valence and danceability, which also makes sense. 
 
