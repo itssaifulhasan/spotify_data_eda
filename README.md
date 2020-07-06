@@ -9,15 +9,16 @@
 |`artist`|__The artist (name) of the songs.__|
 |`year`|__Song's year in the Billboard.__|
 |`beats_per_min`|__Beats per minute - this measures the tempo of the song.__|
-|`energy`|__It represents a perceptual measure of intensity and activity. The energy of a song - the higher the value, the more energtic the song is. Typically, energetic tracks feel fast, loud, and noisy. For instance, death metal has high energy, while a Bach prelude scores low on the scale.__|
+|`energy`|__It represents a perceptual measure of intensity and activity. The energy of a song - the higher the value, the more energtic the song. Typically, energetic songs feel fast, loud, and noisy. For instance, death metal has high energy, while a Bach prelude scores low on the scale.__|
 |`danceability`|__It is a measure using a mixture of song features such as beat strength, tempo stability, and overall tempo. The higher the value, the easier it is to dance to the song.__|
 |`loudness`|__It represents the overall loudness of a track in decibels (dB). The loudness values are averaged across the entire song. The higher the value, the louder the song.__|
 |`liveness`|__The higher the value, the more likely the song is a live recording.__|
-|`valence`|__The higher the value, the more positive mood for the song (e.g. happy, cheerful, euphoric) and the lower the value the more negative (or less psotive) mood for the song ( e.g. sad, depression, angry). It refers the musical positiveness conveyed by a song.__|
+|`valence`|__The higher the value, the more positive mood for the song (e.g. happy, cheerful, euphoric) and the lower the value the more negative (or less positive) mood for the song ( e.g. sad, depression, angry). It refers the musical positiveness conveyed by a song.__|
 |`duration`|__The length or duration of the song.__|
-|`acousticness`|__A confidence measure from 0.0 to 1.0 of whether the song is acoustic. The higher the value the more acoustic the song is__|
+|`acousticness`|__A confidence measure from 0.0 to 1.0 of whether the song is acoustic. The higher the value, the more acoustic the song__|
 |`speechiness`|__This is a measure to detect the presence of spoken words in a song. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the attribute value. Thus, the higher the value the more spoken word the song contains.__|
-|`popularity`|__The higher the value the more popular the song is.__|
+|`popularity`|__The higher the value, the more popular the song__|
+
 
 *Reference : [Ashrith](https://towardsdatascience.com/what-makes-a-song-likeable-dbfdb7abe404), [Kaggle](https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year)*
 
