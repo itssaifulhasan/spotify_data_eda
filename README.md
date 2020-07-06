@@ -21,7 +21,7 @@
 
 #### EDA
 
-![image](./popularity.png)
+![image](popularity.png)
 
 **For most of the years, the average popularity scores were between 60-70, while in 2019, it has the highest popularity score of around 85.**
 
