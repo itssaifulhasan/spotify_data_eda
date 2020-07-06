@@ -37,17 +37,17 @@ Before I get into more of the exploratory data analysis, It is required to know 
 **For most of the years, the average popularity scores were between 60-70, while in 2019, it has the highest popularity score of around 85.**
 
 ###### ***some quick overview of the listed songs between 2010 and 2019***
-- Highest beats per minutes: song title - 'Rihanna' and artist - 'FourFiveSeconds'
-- Highest energy: song title - 'Jonas Brothers' and artist - 'Pom Poms'
-- Highest liveliness: song title -'Meghan Trainor' and artist - 'NO'
-- Highest acousticness: song title -'John Legend' and artist - 'Start']
-- Highest danceability: song title -'Cardi B' and artist - 'Drip (feat. Migos)'
+- **Highest beats per minutes:** song title - **'Rihanna'** and artist - **'FourFiveSeconds'**
+- **Highest energy:** song title - **'Jonas Brothers'** and artist - **'Pom Poms'**
+- **Highest liveliness:** song title - **'Meghan Trainor'** and artist - **'NO'**
+- **Highest acousticness:** song title - **'John Legend'** and artist - **'Start'**
+- **Highest danceability:** song title - **'Cardi B'** and artist - **'Drip (feat. Migos)'**
 
-- Lowest beats per minutes: song title -'Adele' and artist - 'Million Years Ago'
-- Lowest energy: song title -'Adele' and artist - 'Million Years Ago'
-- Lowest liveliness: song title -'Adele' and artist - 'Million Years Ago'
-- Lowest acousticness: song title -'Katy Perry' and artist - 'Last Friday Night (T.G.I.F.)'
-- Lowest danceability: song title -'Adele' and artist - 'Million Years Ago'
+- **Lowest beats per minutes:** song title - **'Adele'** and artist - **'Million Years Ago'**
+- **Lowest energy:** song title - **'Adele'** and artist - **'Million Years Ago'**
+- **Lowest liveliness:** song title - **'Adele'** and artist - **'Million Years Ago'**
+- **Lowest acousticness:** song title - **'Katy Perry'** and artist - **'Last Friday Night (T.G.I.F.)'**
+- **Lowest danceability:** song title - **'Adele'** and artist - **'Million Years Ago'**
 
 ![image](./images/one.png)
 
