@@ -62,6 +62,18 @@
 
 We noticed that in last 10 years majority of the top listed songs were **dance pop**. It posses about **66% of all listed songs**. 
 
+![image](./images/download1.png)
+
+We see that the danceability of the dance pop songs is **usually between 60 to 80 with an average of around 65 which is relatable.**
+
+![image](./images/download2.png)
+
+We see that the energy level of dance pop song is usually **between around 65 and 80, with an average of 73.**
+
+![image](./images/download3.png)
+
+We see that majority of dance pop songs have **loudness below -7.**
+
 ![image](./images/1.png)
 
 **Escape room** genre has the highest average popularity followed by **brostep**. However, the reason these have higher average popularity score is there are very few songs of these genre, such as escpae room, brosteps, alternative r&b. **Appreanetly only 2 songs of escape room genre made to the top list over last 10 years and only one song for alternative r&b genre.*
