@@ -30,42 +30,44 @@
 **Katy Perry** has most number of top songs on Spotify in the period of 2010-19 followed by **Justin Bieber**. **Rihanna** and **Maroon 5** both appreaded 15 times on the top song lists of Spotify between 2010-2019. 
 
 ###### ***The songs of Kety perry made to the top song list on Spotify during 2010-2019***
-'Teenage Dream',
- 'California Gurls',
- 'E.T.',
- 'Last Friday Night (T.G.I.F.)',
- 'Firework',
- 'Part Of Me',
- 'Wide Awake',
- 'The One That Got Away',
- 'Roar',
- 'Dark Horse',
- 'This Is How We Do',
- 'Birthday',
- 'Legendary Lovers',
- 'Rise',
- 'Swish Swish',
- 'Chained To The Rhythm',
- 'Bon appétit'
+- 'Teenage Dream',
+-  'California Gurls',
+-  'E.T.',
+-  'Last Friday Night (T.G.I.F.)',
+-  'Firework',
+-  'Part Of Me',
+-  'Wide Awake',
+-  'The One That Got Away',
+-  'Roar',
+-  'Dark Horse',
+-  'This Is How We Do',
+-  'Birthday',
+-  'Legendary Lovers',
+-  'Rise',
+-  'Swish Swish',
+-  'Chained To The Rhythm',
+-  'Bon appétit'
 
 ###### ***Detail of top listed songs of Katy Perry***
-average danceability: 65.71
-average liveliness: 21.0
-average energy: 75.94
-average beats_per_min: 132.24
-average duration: 224.18
-average acusticness: 3.88
-average popularity: 62.12
-average speechiness: 6.41
+- average danceability: 65.71
+- average liveliness: 21.0
+- average energy: 75.94
+- average beats_per_min: 132.24
+- average duration: 224.18
+- average acusticness: 3.88
+- average popularity: 62.12
+- average speechiness: 6.41
 
 ![images](./images/download.png)
 
 We noticed that in last 10 years majority of the top listed songs were **dance pop**. It posses about **66% of all listed songs**. 
 
 ![images](.images/download (1).png)
+
 **Escape room** genre has the highest average popularity followed by **brostep**. However, the reason these have higher average popularity score is there are very few songs of these genre, such as escpae room, brosteps, alternative r&b. **Appreanetly only 2 songs of escape room genre made to the top list over last 10 years and only one song for alternative r&b genre.*
 
 ![images](./images/download (2).png)
+
 The correlation chart suggests that there is a very weak correlation between popularity and other features. So it is recommended that different features might be playing a role to determine the popularity score. There is a moderate strength correlation between loudness and energy, as well as valence and energy, which makes sense. There is also a moderate strength correlation between valence and danceability, which also makes sense. 
 
 *   
