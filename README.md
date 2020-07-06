@@ -25,6 +25,19 @@
 
 **For most of the years, the average popularity scores were between 60-70, while in 2019, it has the highest popularity score of around 85.**
 
+###### ***some quick overview of the listed songs between 2010 and 2019***
+- Highest beats per minutes song title:'Rihanna' and artist: 'FourFiveSeconds'
+- Highest energy song title:'Jonas Brothers' and artist: 'Pom Poms'
+- Highest liveliness song title:'Meghan Trainor' and artist: 'NO'
+- Highest acousticness song title:'John Legend' and artist: 'Start']
+- Highest danceability song title:'Cardi B' and artist: 'Drip (feat. Migos)'
+
+- Lowest beats per minutes song title:'Adele' and artist: 'Million Years Ago'
+- Lowest energy song title:'Adele' and artist: 'Million Years Ago'
+- Lowest liveliness song title:'Adele' and artist: 'Million Years Ago'
+- Lowest acousticness song title:'Katy Perry' and artist: 'Last Friday Night (T.G.I.F.)'
+- Lowest danceability song title:'Adele' and artist: 'Million Years Ago'
+
 ![image](./images/one.png)
 
 **Katy Perry** has most number of top songs on Spotify in the period of 2010-19 followed by **Justin Bieber**. **Rihanna** and **Maroon 5** both appreaded 15 times on the top song lists of Spotify between 2010-2019. 
@@ -82,4 +95,7 @@ We see that majority of dance pop songs have **loudness below -7.**
 
 The correlation chart suggests that there is a very weak correlation between popularity and other features. So it is recommended that different features might be playing a role to determine the popularity score. There is a moderate strength correlation between loudness and energy, as well as valence and energy, which makes sense. There is also a moderate strength correlation between valence and danceability, which also makes sense. 
 
-*   
+#### Data Reference:
+This data was collected from kaggle. The link is given below:
+- https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year
+- the data was uploaded by Leonardo Henrique on Kaggle   
